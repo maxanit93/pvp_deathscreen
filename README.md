@@ -1,4 +1,4 @@
-> Enhance your FiveM PvP server with my advanced death screen, featuring a bassic design.
+> Enhance your FiveM PvP server with my advanced death screen, featuring a basic design.
 
 ## `📜`丨 Overview
 
